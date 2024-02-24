@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "bufferutil": "^4.0.8",
+    "discord": "^0.8.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "git": "^0.1.5",
+    "node.js": "^0.0.1-security",
+    "utf-8-validate": "^6.0.3",
+    "zlib-sync": "^0.1.9"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "name": "back-on-the-grind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
